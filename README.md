@@ -1,5 +1,5 @@
 # CiSS-Net
-The experimental codes for CiSS-Net.
+The experimental codes in Tensorflow for CiSS-Net.
 They are to be re-organized later.
 
 Paper is also included in this repo as "Context-Reinforced Semantic Segmentation.pdf"
