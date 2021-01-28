@@ -1,4 +1,4 @@
-# CiSS-Net
+# Context-reinforced semantic segmentation
 The experimental codes in Tensorflow for CiSS-Net.
 They are to be re-organized later.
 
